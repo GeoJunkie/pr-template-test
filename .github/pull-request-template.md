@@ -1,7 +1,7 @@
 <!--Title: A descriptive, yet concise, title.-->
-## Issue
-
-<!--Link to the GitHub issue this PR addresses (if appropriate).-->
+<!--Add shortlinks to the issue this is regarding and the P2 Project thread-->
+* **Issue**: 
+* **Project Thread:** 
 
 ## Description
 
